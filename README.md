@@ -1,4 +1,4 @@
-# 🌌 Zenith AI - Video Intelligence Pro
+#  Zenith AI 
 > **High-Performance Multimodal Video Analysis & Narrative Synthesis**
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Bsh54/Zenith-AI/blob/main/main.ipynb)
