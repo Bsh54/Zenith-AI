@@ -1,7 +1,7 @@
 # Zenith AI 
 > **Analyse Vidéo Multimodale Haute Performance & Synthèse Narrative**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Bsh54/Zenith-AI/blob/main/main.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Bsh54/Zenith-AI/blob/main/main.py)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -38,7 +38,7 @@ Pour des performances maximales :
 - Cliquez sur **Enregistrer**
 
 ### 3. Copier et Coller le Code
-Copiez l'intégralité du contenu de [main.ipynb](./main.ipynb) dans une cellule.
+Copiez l'intégralité du contenu de [main.py](./main.py) dans une cellule.
 
 ### 4. Configurer votre API
 Avant de lancer la cellule, trouvez la section `API_CONFIG` en haut du script et entrez vos accès :
